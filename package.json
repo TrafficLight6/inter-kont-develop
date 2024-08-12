@@ -30,6 +30,5 @@
     "cross-env": "^7.0.3",
     "less": "^4.2.0",
     "postcss-preset-env": "^10.0.0"
-  },
-  "homepage": "https://trafficlight6.github.io/inter-kont-test"
+  }
 }
